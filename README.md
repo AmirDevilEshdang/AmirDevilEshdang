@@ -1,23 +1,25 @@
-<!-- انیمیشن تایپینگ حرفه‌ای -->
+<!-- 🔥 Animated Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=F70000&center=true&vCenter=true&width=600&lines=سلام!+من+امیرسَلارم+👋;برنامه‌نویس+خلاق+و+جنگجو+🔥;Python+%7C+C+%7C+HTML+%7C+CSS+%7C+React+%7C+React+Native+%7C+Bootstrap+%7C+Tailwind+%7C+JavaScript">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=Hi+I'm+Amirsalar+👋;Python+%7C+C+%7C+HTML+%7C+CSS+%7C+React+%7C+React+Native+%7C+Bootstrap+%7C+Tailwind+CSS+%7C+JavaScript;Creative+Developer+%7C+Visionary+Builder+%7C+Code+Warrior">
 </p>
 
-<!-- بنر گرافیکی -->
+<!-- 🎮 Cinematic Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/3Z7eZ5U.png" width="100%" />
+  <img src="https://i.imgur.com/3Z7eZ5U.png" width="100%" alt="Cinematic Banner" />
 </p>
 
 ---
 
-## 👨‍💻 درباره من
-🎓 دانشجوی توسعه نرم‌افزار با علاقه شدید به ساخت پلتفرم‌های چندکاربره، ربات‌های تلگرامی و سیستم‌های واقعی.  
-🚀 عاشق پروژه‌های خلاقانه، دیتابیس‌محور و قابل گسترش.  
-🎮 ترکیب برنامه‌نویسی با ذهنیت گیمینگ و طراحی حرفه‌ای.
+## 🧠 About Me
+
+🎓 Passionate developer building multi-user platforms, bots, and real-world systems.  
+🚀 I love combining creativity with system design to make ambitious, scalable projects.  
+🎮 Inspired by gaming aesthetics, I bring cinematic energy to my code.
 
 ---
 
-## 🧠 مهارت‌ها و تکنولوژی‌ها
+## 🚀 Tech Stack
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -32,25 +34,28 @@
 
 ---
 
-## 📊 آمار گیت‌هاب
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amirsalar&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
-</p>
-
----
-
-## 🐍 انیمیشن فعالیت (Snake)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=amirsalar&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 🌌 نقل قول خفن
+## 🐍 Contribution Snake
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code+like+a+warrior,+dream+like+a+visionary!" />
+  <img src="https://raw.githubusercontent.com/amirsalar/amirsalar/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+</p>
+
+---
+
+## 🌌 Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Fly+high,+code+hard,+fight+brave!" />
 </p>
