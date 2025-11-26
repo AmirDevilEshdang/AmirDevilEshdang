@@ -38,7 +38,7 @@ and much more...
 
 👉 Managing Tech Communities & Organizing Events 🎙
 
-👉 Writing Useful Content on **[Hashnode](https://hashnode.heyprakhar.com)**, [**FreeCodeCamp**](https://www.freecodecamp.org/news/author/prakhartiwari0/), [LinuxHandbook](https://linuxhandbook.com/author/prakhar/) and [Bearblog](https://techexplorer.bearblog.dev/).
+👉 Recording some video for you
 
 👉 Building & Contributing to Open Source Projects
 
