@@ -50,11 +50,11 @@ and much more...
 
 `Update 16 Sep 2023:` I'll be launching A lot of exciting Open Source Projects soon
 
-`Update 7 Nov 2023:` I have been working on [**My Web Shortcuts**](https://www.mywebshortcuts.xyz/) for nearly a month and it will launch very soon.
+`Update 7 Nov 2023:` I was  working on a AI for nearly a month and it will launch very soon.
 
-`Update 22 Dec 2023:` My Web Shortcuts was [launched about a month ago on Product Hunt](https://www.producthunt.com/posts/my-web-shortcuts), and has an amazing response. Let's see what the future has for this little project.
+`Update 22 Dec 2023:` I was working on a Telegram robot
 
-`Update 09 Oct 2024:` I got a job lol, working on chrome extension, pretty crazy how life moves
+`Update 09 Oct 2024:` I got a job in karlancer lol, working on some Telegram robots
 </details> 
 
 
