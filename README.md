@@ -115,7 +115,6 @@ and much more...
 <h1>opps i dont have any project yet!!!<h1>
  
 
-And many other contributions to open source 😇. I love contributing whatever I can to help others! 
 
 </details>
 
