@@ -16,9 +16,9 @@
 <img width="33%" align='right' src="https://i.giphy.com/media/e0Uiyu70TXQAALdKP9/giphy.webp">
 
 
-<h3 id="intro"> Namaste 🙏 </h3>
+<h3 id="intro"> amir salar 🙏 </h3>
 
-I'm **[Prakhar Tiwari](https://www.heyprakhar.com)**, an **enthusiastic developer** hailing from the vibrant nation of India 🇮🇳 <br>
+I'm **[amir salar ]**, an **enthusiastic developer** hailing from the vibrant nation of Iran  <br>
 Technology has always fascinated me, and I've immersed myself in the captivating world of web development.
 My purpose? **Building applications that make a real difference in people's lives**! 🔥 <br>
 I **Love working in Open Source ❤️** <br>
@@ -73,12 +73,6 @@ and much more...
 
 
 
-<h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
-
-
-| <img src="https://github-readme-stats.vercel.app/api?username=prakhartiwari0&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="Prakhar's github stats" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakhartiwari0&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" /> |  <img  width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakhartiwari0&layout=compact" /> |
-| ------------- | ------------- | ------------- |
-
 
 
 <h2 id="skills" align=''> Skills 🌱</h3>
@@ -118,27 +112,8 @@ and much more...
 
 <details>
 <summary>Show Projects & Contributions</summary>
-
-### My Own Projects
-
-| Project | Description |
-| ------  | ----------- |
-| [My Web Shortcuts](https://github.com/mywebshortcuts/mywebshortcuts) | A browser Extension used to create custom keyboard shortcuts in a website 🌎💻 |
-| [Arito](https://github.com/prakhartiwari0/arito) | Arito is a WebApp built for practicing arithematic skills. It is designed with creativity and to have a joyful experience. It is built primarily for kids who need to practice their mathematical skills, but this can be used by anybody. |
-| [Spammer Bot](https://github.com/prakhartiwari0/SpammerBot) | It is a spammer bot that uses Python's PyAutoGui module. |
-| [Maths Practice App (Python Tkinter)](https://github.com/prakhartiwari0/Maths-Practice-App) | It is a Python GUI App created with Tkinter Library. It is built people who want to practice basic arithmetic. It gives you questions according to the parameters you set. |
-
-
-
-### Open Source Projects I have contributed to ⭐:
-| Project | Description |
-| ------  | ----------- |
-|[Tourism Website](https://github.com/PritamSarbajna/tourism-website)| ADVENTURE - A simple website of a tourism agency for tourists.|
-| [BroTab](https://github.com/balta2ar/brotab) | Control your browser's tabs from the command line |
-| [MedFlare](https://github.com/prathimacode-hub/MedFlare)| Med Flare is an instant medical aid app to resolve the hassles and address the emergencies at right frame of time to the needy. |
-| [LinkFree](https://github.com/MichaelBarney/LinkFree) | A free and open source alternative to LinkTree |
-| [Stack-Docs](https://github.com/CaiJimmy/stack-docs) | Source of Stack theme's documentation |
-| [Safe Eyes](https://github.com/slgobinath/SafeEyes) | Protect your eyes from eye strain using this simple and beautiful, yet extensible break reminder | 
+<h1>opps i dont have any project yet!!!<h1>
+ 
 
 And many other contributions to open source 😇. I love contributing whatever I can to help others! 
 
@@ -151,27 +126,17 @@ And many other contributions to open source 😇. I love contributing whatever I
 <summary>Show Achievements</summary>
 
 <!-- <a href="" target="_blank"><img src="" width="00px"/></a> -->
-
-| Name | Description | Proof |
-| ---- | ----------- | ----- |
-| HackOdisha 2.0 | I participated in HackOdisha 2.0 and was a part of a team. We worked on a project together and I got to learn a lot from that experience | <a href="https://certificate.givemycertificate.com/c/928982d6-1e3a-4a5d-8494-4d8acb810064" target="_blank"><img src="https://user-images.githubusercontent.com/65062036/198053762-c8ccb1b6-2903-422a-9e71-5a14c779cede.png" width="100%"/></a>|
-| Hacktoberfest 2022 & 2023 | I participated and completed Hacktoberfest 2022 | <a href="https://holopin.io/@prakhar_tiwari" target="_blank"><img src="https://holopin.me/prakhar_tiwari" width="100%"/></a> |
-
+<h2>dont worry im working on it<h2>
 </details>
 
 
 <details>
 <summary>Show Testimonials</summary>
 
-If you know me for a while and want to share something about me, you can **create an [issue for testimonials](https://github.com/prakhartiwari0/prakhartiwari0/issues/new/choose).**
-
-| Name | About | Testimonial |
-| ---- | ----------- | ----------- |
-| **[Pritam Sarbajna](https://www.linkedin.com/in/pritam-sarbajna-74945821b/)** | **IT undergrad, Developer, Open source and cybersecurity enthusiast** | _"I've known Prakhar from github, When he contributed one of my open-source repo. After having some conversation with him I'm amazed to know that he's just in school and learnt so much. Always love to talk with these enthusiastic fellas !!! Wish you all the best for future! "_ [{Source}](https://github.com/prakhartiwari0/prakhartiwari0/issues/7) |
+<h2>dont worry im working on it<h2>
 
  </details>
 
-<!-- [![Prakhar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=prakhartiwari0&theme=github)](https://www.heyprakhar.xyz/links) -->
 
 
 <h3 id="support" align='center'> 
