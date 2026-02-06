@@ -141,7 +141,7 @@ and much more...
 <h3 id="support" align='center'> 
  
  
-<a href="https://github.com/sponsors/prakhartiwari0" target="_blank">
+<a href="https://github.com/AmirDevilEshdang" target="_blank">
 Support my work 😄
 </a> </h3>
 
