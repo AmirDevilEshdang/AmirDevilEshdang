@@ -18,7 +18,7 @@
 
 <h3 id="intro"> amir salar 🙏 </h3>
 
-I'm **[amir salar ]**, an **enthusiastic developer** hailing from the vibrant nation of Iran  <br>
+I'm **[amir salar ]**, an **frontend developer** hailing from the vibrant nation of Iran  <br>
 Technology has always fascinated me, and I've immersed myself in the captivating world of web development.
 My purpose? **Building applications that make a real difference in people's lives**! 🔥 <br>
 I **Love working in Open Source ❤️** <br>
